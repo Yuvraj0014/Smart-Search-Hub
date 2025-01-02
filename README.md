@@ -13,6 +13,7 @@ Perfect for researchers, students, professionals, and anyone seeking to efficien
 
 ## ✨ Key Features
 
+
 - 💬 Natural Language Chat Interface
 - 🔄 Multi-Source Integration
 - 🛠️ Advanced LLM Processing (GROQ)
@@ -100,6 +101,9 @@ Try it now: [SmartSearch Hub App](https://langchainagent.streamlit.app/)
 - Customizable search depth
 - Adjustable response length
 - Source priority settings
+
+## Output Screen
+![alt text](image.png)
 
 ## 📜 License
 GNU General Public License v3

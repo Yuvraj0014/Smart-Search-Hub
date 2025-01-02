@@ -30,5 +30,4 @@ unstructured
 pytube
 numexpr
 langchain-tools
-langchain_tools
 streamlit
