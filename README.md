@@ -58,7 +58,7 @@ streamlit run app.py
 ```
 
 ## 🌐 Live Demo
-Try it now: [SmartSearch Hub App](https://langchainagent.streamlit.app/)
+Try it now: [SmartSearch Hub App](https://smart-search-app.streamlit.app/)
 
 ## 📂 Project Structure
 ```
@@ -103,6 +103,9 @@ Try it now: [SmartSearch Hub App](https://langchainagent.streamlit.app/)
 - Source priority settings
 
 ## Output Screen
+
+![alt text](image-1.png)
+
 ![alt text](image.png)
 
 ## 📜 License
