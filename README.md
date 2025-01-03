@@ -31,19 +31,19 @@ Perfect for researchers, students, professionals, and anyone seeking to efficien
 
 1. **Clone Repository**
 ```bash
-git clone [your-repo-url]
-cd [repo-name]
+git clone https://github.com/Yuvraj0014/Smart-Search-Hub.git
+cd Smart-Search-Hub
 ```
 
 2. **Setup Environment**
-```bash
+```cmd
 python -m venv venv
 source venv/bin/activate  # Linux/MacOS
 venv\Scripts\activate     # Windows
 ```
 
 3. **Install Dependencies**
-```bash
+```cmd
 pip install -r requirements.txt
 ```
 
@@ -53,7 +53,7 @@ GROQ_API_KEY=<your-key>
 ```
 
 5. **Launch App**
-```bash
+```cmd
 streamlit run app.py
 ```
 
