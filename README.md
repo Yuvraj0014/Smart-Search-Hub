@@ -104,8 +104,6 @@ Try it now: [SmartSearch Hub App](https://smart-search-app.streamlit.app/)
 
 ## Output Screen
 
-![alt text](image-1.png)
-
 ![alt text](image.png)
 
 ## 📜 License
