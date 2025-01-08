@@ -8,15 +8,15 @@ import os
 from dotenv import load_dotenv
 
 ## Arxiv and Wikipedia tools
-api_wrapper_arxiv = ArxivAPIWrapper(top_k_results=1, doc_content_chars_max=250)
+api_wrapper_arxiv = ArxivAPIWrapper(top_k_results=3, doc_content_chars_max=2500)
 arxiv = ArxivQueryRun(api_wrapper=api_wrapper_arxiv)
 
-api_wrapper_wiki = WikipediaAPIWrapper(top_k_results=1, doc_content_chars_max=250)
+api_wrapper_wiki = WikipediaAPIWrapper(top_k_results=3, doc_content_chars_max=2500)
 wiki = WikipediaQueryRun(api_wrapper=api_wrapper_wiki)
 
 search = DuckDuckGoSearchRun(name="Search")
 
-st.title("🔍 Langchain - Chat with Search")
+st.title("🌐 SmartSearch Hub: AI-Powered Knowledge Assistant")
 
 ## Slider for setting
 st.sidebar.title("Settings")
