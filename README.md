@@ -130,7 +130,7 @@ GNU General Public License v3
 - Custom source prioritization
 
 ## 📧 Contact
-Questions or ideas? Reach out! [Your contact info]
+Questions or ideas? Reach out!
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
