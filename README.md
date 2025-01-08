@@ -129,9 +129,6 @@ GNU General Public License v3
 - Advanced conversation memory
 - Custom source prioritization
 
-## 📧 Contact
-Questions or ideas? Reach out!
-
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
